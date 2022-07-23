@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @RBRNFRVR
 - 👀 I’m interested in CODING!!!!
 - 🌱 I’m currently learning AWS
+-Music App Frontend: https://github.com/RBRNFRVR/musicapp-client
+-Music App Backend: https://github.com/RBRNFRVR/Backend-Test
 - Travel App: https://github.com/RBRNFRVR/travel-app-practice/tree/main
 - Crypto App: https://github.com/RBRNFRVR/cryptoapp
 - 💞️ I’m looking to collaborate on any project I want to learn
